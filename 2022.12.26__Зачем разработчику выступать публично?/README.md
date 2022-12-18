@@ -1,14 +1,17 @@
 ---
 marp: true
 theme: uncover
-paginate: true
 class: lead
-footer: 'Киреков Семен. Telegram: @kirekov'
 ---
 
 # Зачем разработчику выступать публично?
 
 ---
+
+<!--
+footer: 'Киреков Семен. Telegram: @kirekov'
+paginate: true
+-->
 
 ## Пару слов о себе
 
@@ -18,6 +21,10 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 
 ---
 
+<!--
+footer: 'План доклада'
+-->
+
 ### Почему вам должно быть это интересно?
 
 1) Нужны ли публичные выступления? Какая польза?
@@ -26,6 +33,10 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 
 ---
 
+<!--
+footer: 'Нужны ли публичные выступления? Какая польза?'
+-->
+
 ## Пути развития
 
 1. Лид
@@ -33,7 +44,7 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 
 ---
 
-## Плюс выступлений для лида
+## Плюсы выступлений для лида
 
 1) Лучше доносить задачи до команды.
 2) Быть более авторитетным лидером команды.
@@ -48,16 +59,29 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 
 ---
 
-### Как начать выступать?
+<!--
+footer: 'Как начать выступать и побороть страх?'
+-->
+
+### Как побороть страх?
 
 1) Волнение – это нормально. Лекарство – подготовка.
-2) **Не** начинайте со слайдов.
-3) **Не** делайте вычурный дизайн.
-4) [Правило 10/20/30](https://blog.hubspot.com/blog/tabid/6307/bid/1056/steve-jobs-guy-kawasaki-powerpoint-best-practices.aspx#:~:text=The%2010%2F20%2F30%20rule%20of%20PowerPoint%20is%20a%20straightforward,to%20create%20excellent%20PowerPoint%20presentations.).
-5) Взаимодействие с аудиторией.
-6) Выводы
 
 ---
+
+### Как начать выступать?
+
+1) Лучшая тема растет из проблемы.
+2) Тезисы.
+3) **Не** начинайте со слайдов.
+4) [Правило 10/20/30](https://blog.hubspot.com/blog/tabid/6307/bid/1056/steve-jobs-guy-kawasaki-powerpoint-best-practices.aspx#:~:text=The%2010%2F20%2F30%20rule%20of%20PowerPoint%20is%20a%20straightforward,to%20create%20excellent%20PowerPoint%20presentations.).
+5) Взаимодействие с аудиторией.
+
+---
+
+<!--
+footer: 'Выводы'
+-->
 
 ## Выводы
 
@@ -66,6 +90,10 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 3) Выступления – отличный способ расти по карьерной лестнице.
 
 ---
+
+<!--
+footer: ''
+-->
 
 ## Спасибо за внимание!
 
