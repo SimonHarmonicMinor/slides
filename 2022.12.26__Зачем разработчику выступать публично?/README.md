@@ -71,3 +71,5 @@ footer: 'Киреков Семен. Telegram: @kirekov'
 
 * [Мои статьи: dev.to/@kirekov](https://dev.to/@kirekov)
 * [Telegram: @kirekov](https://t.me/kirekov)
+
+![QRCode](qrcode.png)
